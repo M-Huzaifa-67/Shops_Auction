@@ -1,2 +1,2 @@
 # Shops_Auction
-c++ program about shops auction.
+c++ project about shops auction.
